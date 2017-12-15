@@ -1,1 +1,13 @@
-test
+{
+  { id: 1, description: 'Mr. Nice' },
+  { id: 2, description: 'Narco' },
+  { id: 3, description: 'Bombasto' },
+  { id: 4, description: 'Celeritas' },
+  { id: 5, description: 'Magneta' },
+  { id: 6, description: 'RubberMan' },
+  { id: 7, description: 'Dynama' },
+  { id: 8, description: 'Dr IQ' },
+  { id: 9, description: 'Magma' },
+  { id: 10, description: 'Tornado' }
+
+}
